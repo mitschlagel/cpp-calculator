@@ -1,0 +1,3 @@
+/Users/spencerjones/Code/personal/cpp/calculator-app/build/CMakeFiles/CalculatorApp.dir
+/Users/spencerjones/Code/personal/cpp/calculator-app/build/CMakeFiles/edit_cache.dir
+/Users/spencerjones/Code/personal/cpp/calculator-app/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/CalculatorApp.dir/src/main.cpp.o CMakeFiles/CalculatorApp.dir/src/calculator.cpp.o -o CalculatorApp
